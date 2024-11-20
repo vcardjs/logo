@@ -4,7 +4,7 @@ The logo for the vCard.js project.
 
 ![Logo for the vCard.js Project](https://raw.githubusercontent.com/vcardjs/logo/refs/heads/main/logo.png)
 
-Created with [GIMP](https://www.gimp.org/) 2.10.38.
+Created with [GIMP](https://www.gimp.org/) 2.10.38 using the [Fira Code](https://github.com/tonsky/FiraCode) font variant from [Nerd Fonts](https://www.nerdfonts.com/).
 
 License
 -------
