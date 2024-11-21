@@ -7,6 +7,23 @@
 >
   <title>vCard.js</title>
 
+  <desc>The logo for the vCard.js project.</desc>
+
+  <metadata>
+    <rdf:RDF>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+      <cc:Work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+
   <rect class="background" width="100%" height="100%" fill="#f0db4f" />
 
   <text font-size="375px" font-weight="bold">
@@ -27,19 +44,4 @@
       text-anchor="middle"
     >vCard.js</tspan>
   </text>
-
-  <metadata>
-    <rdf:RDF>
-      <cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
-        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
-        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
-        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
-        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
-      </cc:License>
-      <cc:Work rdf:about="The logo for the vCard.js project.">
-        <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
 </svg>
