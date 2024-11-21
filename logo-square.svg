@@ -1,13 +1,16 @@
 <svg
+  aria-labelledby="vcardjs-logo-square-title vcardjs-logo-square-description"
+  role="img"
   viewBox="0 0 1920 1920"
   xmlns="http://www.w3.org/2000/svg"
   xmlns:svg="http://www.w3.org/2000/svg"
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:cc="http://creativecommons.org/ns#"
 >
-  <title>vCard.js</title>
+  <title id="vcardjs-logo-square-title">vCard.js Logo Square</title>
 
-  <desc>The logo for the vCard.js project.</desc>
+  <desc id="vcardjs-logo-square-description">A yellow square with the text vCard.js in gray with
+    decorative characters above it.</desc>
 
   <metadata>
     <rdf:RDF>
@@ -28,6 +31,7 @@
 
   <text dominant-baseline="text-before-edge" font-size="375px" font-weight="bold">
     <tspan
+      aria-hidden="true"
       class="icon"
       x="50%"
       dy="1.2em"
