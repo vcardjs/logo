@@ -2,7 +2,7 @@ vCard.js Logo
 =============
 The logo for the vCard.js project and its variants.
 
-![Logo for the vCard.js Project](https://raw.githubusercontent.com/vcardjs/logo/refs/heads/main/logo.png)
+![Logo for the vCard.js Project](https://raw.githubusercontent.com/vcardjs/logo/refs/heads/main/images/logo.png)
 
 Created using the [Fira Code](https://github.com/tonsky/FiraCode) font.
 
