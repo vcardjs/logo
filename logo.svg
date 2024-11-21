@@ -1,0 +1,43 @@
+<svg
+  viewBox="0 0 1920 1080"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://creativecommons.org/ns#"
+>
+  <rect class="background" width="100%" height="100%" fill="#f0db4f" />
+
+  <text font-size="375px" font-weight="bold">
+    <tspan
+      class="icon"
+      x="50%"
+      dy="1.2em"
+      fill="#323330"
+      font-family="Fira Code"
+      text-anchor="middle"
+    >&lt;/&gt;</tspan>
+    <tspan
+      class="text"
+      x="50%"
+      dy="1em"
+      fill="#323330"
+      font-family="Fira Code"
+      text-anchor="middle"
+    >vCard.js</tspan>
+  </text>
+
+  <metadata>
+    <rdf:RDF>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+      <cc:Work rdf:about="The logo for the vCard.js project.">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
