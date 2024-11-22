@@ -15,7 +15,7 @@
   "author": "James Benner <hello@jamesbenner.com> (https://www.jamesbenner.com/)",
   "type": "module",
   "scripts": {
-    "convert-logos-to-png": "node ./scripts/convert-logos-to-png.js",
+    "convert-logos": "node ./scripts/convert-logos.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {

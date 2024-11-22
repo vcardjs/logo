@@ -6,10 +6,10 @@ The logo for the vCard.js project and its variants.
 
 Created using the [Fira Code](https://github.com/tonsky/FiraCode) font.
 
-Converting the Logos to PNG
----------------------------
+Converting the Logos to PNG and Favicon
+---------------------------------------
 ```sh-session
-npm run convert-logos-to-png
+npm run convert-logos
 ```
 
 License
