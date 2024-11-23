@@ -18,6 +18,9 @@
     "convert-logos": "node ./scripts/convert-logos.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "config": {
+    "output_directory": "images"
+  },
   "devDependencies": {
     "chalk": "^5.3.0",
     "log-symbols": "^7.0.0",

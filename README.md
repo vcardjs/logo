@@ -12,6 +12,19 @@ Converting the Logos to PNG and Favicon
 npm run convert-logos
 ```
 
+Configuring the Logo Conversion Output Directory
+------------------------------------------------
+The output directory is configured in the `package.json` file. You can change it via the `.config.output_directory` property.
+
+For example, here's the current setting:
+```json
+{
+  "config": {
+    "output_directory": "images"
+  }
+}
+```
+
 License
 -------
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">

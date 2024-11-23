@@ -3,6 +3,7 @@
 import chalk from 'chalk';
 import logSymbols from 'log-symbols';
 import path from 'node:path';
+import process from 'node:process';
 import { readdir } from 'node:fs/promises';
 import svg2 from 'oslllo-svg2';
 
@@ -10,7 +11,7 @@ const logos = (await readdir('.', { withFileTypes: true }))
     .filter(dirent => dirent.isFile() && dirent.name.endsWith('.svg'))
     .map(dirent => dirent.name.replace(/\.svg$/, ''));
 
-const outputDirectory = 'images';
+const outputDirectory = process.env.npm_package_config_output_directory;
 
 console.log(logSymbols.info, chalk.blue(`Writing to the ${outputDirectory} directory...`));
 
